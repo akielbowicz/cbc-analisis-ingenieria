@@ -13,7 +13,7 @@ Los cuadernos se encuentran en la carpeta **cuadernos**
 
 ### Cuadernos
   
-  - limites_de_sucesiones.jl
+  - [![Binder](https://mybinder.org/badge_logo.svg)  limites_de_sucesiones.jl](https://mybinder.org/v2/gh/akielbowicz/cbc-analisis-ingenieria/HEAD?urlpath=pluto/open?path=/home/jovyan/cuadernos/limite_de_sucesiones.jl)
 
 ### Tips de Pluto:
 
