@@ -18,3 +18,13 @@ Los cuadernos se encuentran en la carpeta **cuadernos**
 ### Tips de Pluto:
 
 [Comandos básicos de Pluto](https://github.com/fonsp/Pluto.jl/wiki/%F0%9F%94%8E-Basic-Commands-in-Pluto)
+
+
+## Como solucionar Errores conocidos
+
+![image](https://user-images.githubusercontent.com/30580760/114430304-af184300-9b94-11eb-9857-6c1ff86d45c4.png)
+
+Simplemente tienen que darle recargar/reload(F5) a la página.
+
+Si no funciona pueden borrar todo lo que está a continuación de `/pluto`
+![image](https://user-images.githubusercontent.com/30580760/114430873-42517880-9b95-11eb-81a4-2573adf6db2d.png)
