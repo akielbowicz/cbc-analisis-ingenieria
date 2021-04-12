@@ -54,7 +54,7 @@ md"""### Límite de una sucesión
 
 # ╔═╡ 35838740-5278-4e35-bc1f-58e783789101
 md"""
-L = $(@bind L Slider(1:30,show_value=true))
+L = $(@bind L Slider(-10:1:10,default=1,show_value=true))
 
 ϵ₀ = $(@bind ϵ0 Slider(0:0.01:1,default=1,show_value=true))       
 E  = $(@bind E Slider(-10:1,default=0,show_value=true))
@@ -70,7 +70,7 @@ end
 
 # ╔═╡ 1b0d0069-d7f1-45f9-8690-d68655340f49
 begin
-scatter(n0:n0+N,L.-a.(n0:n0+N),markersize=0.5,legend=false)
+scatter(n0:n0+N,a.(n0:n0+N),markersize=0.7,legend=false)
 hline!([L],width=1)
 hline!([L-ϵ,L+ϵ])
 end
