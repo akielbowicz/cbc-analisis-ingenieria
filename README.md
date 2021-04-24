@@ -15,6 +15,11 @@ Los cuadernos se encuentran en la carpeta **cuadernos**
   
   - [![Binder](https://mybinder.org/badge_logo.svg)  limites_de_sucesiones.jl](https://mybinder.org/v2/gh/akielbowicz/cbc-analisis-ingenieria/HEAD?urlpath=pluto/open?path=/home/jovyan/cuadernos/limite_de_sucesiones.jl)
 
+  - [![Binder](https://mybinder.org/badge_logo.svg)  generalidades_de_funciones.jl](https://mybinder.org/v2/gh/akielbowicz/cbc-analisis-ingenieria/HEAD?urlpath=pluto/open?path=/home/jovyan/cuadernos/generalidades_de_funciones.jl)
+
+  - [![Binder](https://mybinder.org/badge_logo.svg)  funciones_homograficas.jl](https://mybinder.org/v2/gh/akielbowicz/cbc-analisis-ingenieria/HEAD?urlpath=pluto/open?path=/home/jovyan/cuadernos/funciones_homograficas.jl)
+
+
 ### Tips de Pluto:
 
 [Comandos básicos de Pluto](https://github.com/fonsp/Pluto.jl/wiki/%F0%9F%94%8E-Basic-Commands-in-Pluto)
