@@ -19,6 +19,8 @@ Los cuadernos se encuentran en la carpeta **cuadernos**
 
   - [![Binder](https://mybinder.org/badge_logo.svg)  funciones_homograficas.jl](https://mybinder.org/v2/gh/akielbowicz/cbc-analisis-ingenieria/HEAD?urlpath=pluto/open?path=/home/jovyan/cuadernos/funciones_homograficas.jl)
 
+  - [![Binder](https://mybinder.org/badge_logo.svg)  continuidad_epsilon_delta.jl](https://mybinder.org/v2/gh/akielbowicz/cbc-analisis-ingenieria/HEAD?urlpath=pluto/open?path=/home/jovyan/cuadernos/continuidad_epsilon_delta.jl)
+
 
 ### Tips de Pluto:
 
