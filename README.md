@@ -21,6 +21,8 @@ Los cuadernos se encuentran en la carpeta **cuadernos**
 
   - [![Binder](https://mybinder.org/badge_logo.svg)  continuidad_epsilon_delta.jl](https://mybinder.org/v2/gh/akielbowicz/cbc-analisis-ingenieria/HEAD?urlpath=pluto/open?path=/home/jovyan/cuadernos/continuidad_epsilon_delta.jl)
 
+  - [![Binder](https://mybinder.org/badge_logo.svg)  derivadas.jl](https://mybinder.org/v2/gh/akielbowicz/cbc-analisis-ingenieria/HEAD?urlpath=pluto/open?path=/home/jovyan/cuadernos/derivadas.jl)
+
 
 ### Tips de Pluto:
 
