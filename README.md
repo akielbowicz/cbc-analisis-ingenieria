@@ -23,6 +23,8 @@ Los cuadernos se encuentran en la carpeta **cuadernos**
 
   - [![Binder](https://mybinder.org/badge_logo.svg)  derivadas.jl](https://mybinder.org/v2/gh/akielbowicz/cbc-analisis-ingenieria/HEAD?urlpath=pluto/open?path=/home/jovyan/cuadernos/derivadas.jl)
 
+  - [![Binder](https://mybinder.org/badge_logo.svg)  linealizacion_y_diferencial.jl](https://mybinder.org/v2/gh/akielbowicz/cbc-analisis-ingenieria/HEAD?urlpath=pluto/open?path=/home/jovyan/cuadernos/linealizacion_y_diferencial.jl)
+
 
 ### Tips de Pluto:
 
